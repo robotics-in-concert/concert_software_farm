@@ -2,8 +2,8 @@
 Changelog for package concert_software_common
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2015-02-09)
+------------------
 * install software and launch directory
 * Contributors: Jihoon Lee
 
