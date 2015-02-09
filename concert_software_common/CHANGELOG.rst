@@ -2,7 +2,7 @@
 Changelog for package concert_software_common
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.1 (2015-02-09)
+------------------
 * world canvas as software
 * Contributors: Jihoon Lee
