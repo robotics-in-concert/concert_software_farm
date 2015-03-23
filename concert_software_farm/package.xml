@@ -6,7 +6,7 @@
     concert software farm meta package
   </description>
 
-  <maintainer email="jihoonlee.in@gmail.com">jihoonl</maintainer>
+  <maintainer email="jihoonlee.in@gmail.com">Jihoon Lee</maintainer>
   <license>BSD</license>
 
   <url type="website">http://wiki.ros.org/concert_software_farm</url>
