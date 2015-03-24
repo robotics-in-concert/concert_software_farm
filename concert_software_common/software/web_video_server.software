@@ -4,5 +4,8 @@ author: Jihoon Lee
 launch: concert_software_common/web_video_server.launch
 max_count: -1
 parameters:
-  address: localhost
-  port: 8080
+  - key: address
+    value: localhost
+  - key: port
+    value: 8080 
+    
