@@ -17,7 +17,9 @@
   <author>Jihoon Lee</author>
   <buildtool_depend>catkin</buildtool_depend>
   <run_depend>world_canvas_server</run_depend>
+  <run_depend>web_video_server</run_depend>
   <export>
     <software_farm>software/world_canvas_server.software</software_farm>
+    <software_farm>software/web_video_server.software</software_farm>
   </export>
 </package>
