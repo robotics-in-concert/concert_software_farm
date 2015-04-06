@@ -2,6 +2,11 @@
 Changelog for package concert_software_farm
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* fix maintainer name
+* Contributors: Jihoon Lee
+
 0.0.2 (2015-02-09)
 ------------------
 
